@@ -1,6 +1,6 @@
 # Alpha-Gate Lab
 
-**Executable browser companion for `alpha-axis/0.1`**  
+**Executable browser companion for [`alpha-axis/0.1`](https://github.com/KarinLuni/accountability-axis/blob/main/SPEC.md)**  
 **Author:** K. Lunina · Apache-2.0 · vendor-neutral · no telemetry
 
 [Open the specification, corpus, reference verifier, reference-record fixture,
